@@ -1,0 +1,7 @@
+{
+  "name": "LTO Exam Simulator",
+  "description": "An interactive LTO written exam reviewer with simulated security features like facial recognition, anti-cheating measures, and a time limit.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
